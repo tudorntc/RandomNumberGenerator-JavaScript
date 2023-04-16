@@ -7,4 +7,5 @@ the maximum number that the user entered.
 Feel free to contact @tudorntc if you notice any problems or if you have questions.
 -----
 Author
+------
 [Nica Tudor](https://github.com/tudorntc)
