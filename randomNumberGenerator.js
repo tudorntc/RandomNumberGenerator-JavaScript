@@ -2,8 +2,7 @@
 
 //Max number
 
-console.log("Enter the maximum number that can be generated.");
-const userMaxNumber = parseFloat(prompt("This can also be a decimal number: "));
+const userMaxNumber = parseFloat(prompt("Enter the maximum number that can be generated: "));
 
 //Random number generator formula
 
