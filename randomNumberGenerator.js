@@ -10,4 +10,4 @@ const randomNumber = Math.floor(Math.random() * userMaxNumber);
 
 //Displaying the random number
 
-console.log(randomNumber);
+console.log("Generated number: " + randomNumber);
